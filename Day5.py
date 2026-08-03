@@ -92,29 +92,3 @@ print("{} is in {}".format(name,place)) # oder matters
 # fstring usage (more recommended) 
 print(f'{name} is in {place}')
 print(f'{"Srividya"} is in {name}')
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
