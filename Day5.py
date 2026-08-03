@@ -80,7 +80,7 @@ name='Codegnan';age=7;batch='DA-023';place='Hyd'
 print(batch,'is in',name) #variables and msg to be seperated by comma
 print(name,'is in',place,'age is',age,'years')
 
-#Old style formatting -->%d -->integer, %s-->String, %f-->float
+#Old style formatting -->%d-->integer, %s-->String, %f-->float
 salary = 24253.256
 print("His Salary is %d"%(salary))
 print("His Salary is %f"%(salary))
@@ -89,10 +89,12 @@ print("His Salary is %.1f"%(salary)) #%.1f-->rounding to 1 decimal
 #.format() usage
 print("{} is in {}".format(name,place)) # oder matters
 
-# fstring usage (more recommended)
+# fstring usage (more recommended) 
 print(f'{name} is in {place}')
 print(f'{"Srividya"} is in {name}')
       
+
+
 
 
 
